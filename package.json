@@ -1,0 +1,31 @@
+{
+  "name": "mean-ang-2",
+  "version": "1.0.0",
+  "description": "A MEAN stack app with angular2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranav-mishra-96/mean-ang-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Mongodb",
+    "Express",
+    "Angular2",
+    "Nodejs"
+  ],
+  "author": "Pranav Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranav-mishra-96/mean-ang-2/issues"
+  },
+  "homepage": "https://github.com/pranav-mishra-96/mean-ang-2#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11",
+    "path": "^0.12.7"
+  }
+}
